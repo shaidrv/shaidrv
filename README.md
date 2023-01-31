@@ -1,16 +1,36 @@
 ### Hi there 👋
 
-<!--
-**shaidrv/shaidrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am looking for a remote job as a Junior Frontend Developer.
 
-Here are some ideas to get you started:
+Completed Hexlet courses:
+- Basics of JavaScript;
+- Basics of modern layout;
+- Introduction to Git.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Vladilen Minin's Vue3, HTML & CSS courses.
+
+- Learn.javascript.ru.
+
+
+My skills:
+- JavaScript
+- HTML
+- CSS
+- Git
+- Vue3
+- Vuex
+- Vue Router
+- HTTP
+- TypeScript
+
+About me: 
+- I am in the Moscow time zone
+- I know how to work with Git 
+- I know about team development
+- I am self-checking the written code
+- I can decompose complex tasks and evaluate them
+- I can learn effectively, even with minimal team support 
+
+Contact with me:
+- Email: shaidrv@gmail.com 
+- Telegram: @shaidrv
