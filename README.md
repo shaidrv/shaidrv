@@ -23,6 +23,7 @@ My skills:
 - HTTP
 - TypeScript
 
+
 About me: 
 - I am in the Moscow time zone
 - I know how to work with Git 
