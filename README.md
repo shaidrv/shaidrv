@@ -1,16 +1,6 @@
 ### Hi there 👋
 
-I am looking for a remote job as a Junior Frontend Developer.
-
-Completed Hexlet courses:
-- Basics of JavaScript;
-- Basics of modern layout;
-- Introduction to Git.
-
-- Vladilen Minin's Vue3, HTML & CSS courses.
-
-- Learn.javascript.ru.
-
+I am looking for a remote job as a Middle Frontend Developer.
 
 My skills:
 - JavaScript
@@ -23,9 +13,7 @@ My skills:
 - HTTP
 - TypeScript
 
-
 About me: 
-- I am in the Moscow time zone
 - I know how to work with Git 
 - I know about team development
 - I am self-checking the written code
